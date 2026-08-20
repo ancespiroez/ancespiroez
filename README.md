@@ -23,7 +23,7 @@ Generalist vibe coder.
 
 <br>
 
-**`tech`**
+**`languages`**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html" />
@@ -44,13 +44,17 @@ Generalist vibe coder.
 **`ai i vibe with`**
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/anthropic/white" height="40" alt="claude" />
+  <!-- Claude: Google Images (временная ссылка) -->
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhNTwuacVRBvDP_J48OUHiLj9zZNfjua_1Yu370uta_Q0Slt4vQu-ovs&s=10" height="40" alt="claude" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/openai/white" height="40" alt="chatgpt" />
+  <!-- ChatGPT: Использую Wikimedia Commons, так как Vecteezy не дает прямых ссылок -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="40" alt="chatgpt" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Qwen-FF6A00?style=flat-square&logo=alibaba&logoColor=white&labelColor=1a1a1a" height="40" alt="qwen" />
+  <!-- Qwen: Прямая ссылка -->
+  <img src="https://www.ai-stat.ru/icons/png/dark/qwen.png" height="40" alt="qwen" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Kimi-000000?style=flat-square&logoColor=white" height="40" alt="kimi" />
+  <!-- Kimi: Предполагаю .svg, если не работает - убери расширение -->
+  <img src="https://lobehub.com/icons/kimi.svg" height="40" alt="kimi" />
 </div>
 
 ###
