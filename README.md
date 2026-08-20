@@ -44,17 +44,13 @@ Generalist vibe coder.
 **`ai i vibe with`**
 
 <div align="left">
-  <!-- Claude: Google Images (временная ссылка) -->
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhNTwuacVRBvDP_J48OUHiLj9zZNfjua_1Yu370uta_Q0Slt4vQu-ovs&s=10" height="40" alt="claude" />
   <img width="12" />
-  <!-- ChatGPT: Использую Wikimedia Commons, так как Vecteezy не дает прямых ссылок -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="40" alt="chatgpt" />
   <img width="12" />
-  <!-- Qwen: Прямая ссылка -->
   <img src="https://www.ai-stat.ru/icons/png/dark/qwen.png" height="40" alt="qwen" />
   <img width="12" />
-  <!-- Kimi: Предполагаю .svg, если не работает - убери расширение -->
-  <img src="https://lobehub.com/icons/kimi.svg" height="40" alt="kimi" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU45ma4iHHngkpIdLVl3E5luncCm2ge95t2G592XD4-g&s" height="40" alt="kimi" />
 </div>
 
 ###
