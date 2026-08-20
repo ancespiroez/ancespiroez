@@ -6,30 +6,24 @@
 
 ###
 
-<pre>
-┌──────────────────────────────────────┐
-│ who                                  │
-└──────────────────────────────────────┘
+**`who`**  
 Generalist vibe coder.
 
-┌──────────────────────────────────────┐
-│ os                                   │
-└──────────────────────────────────────┘
-</pre>
+<br>
+
+**`os`**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="40" alt="windows" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="macos/ios" />
+  <img src="https://cdn.simpleicons.org/apple/white" height="40" alt="macos" />
 </div>
 
-<pre>
-┌──────────────────────────────────────┐
-│ tech                                 │
-└──────────────────────────────────────┘
-</pre>
+<br>
+
+**`tech`**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html" />
@@ -38,27 +32,25 @@ Generalist vibe coder.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust" />
+  <img src="https://cdn.simpleicons.org/rust/white" height="40" alt="rust" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
 </div>
 
-<pre>
-┌──────────────────────────────────────┐
-│ ai i vibe with                       │
-└──────────────────────────────────────┘
-</pre>
+<br>
+
+**`ai i vibe with`**
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/anthropic/white" height="40" alt="claude" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/openai/white" height="40" alt="chatgpt" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/googlegemini/white" height="40" alt="gemini" />
+  <img src="https://img.shields.io/badge/Qwen-FF6A00?style=flat-square&logo=alibaba&logoColor=white&labelColor=1a1a1a" height="40" alt="qwen" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/githubcopilot/white" height="40" alt="copilot" />
+  <img src="https://img.shields.io/badge/Kimi-000000?style=flat-square&logoColor=white" height="40" alt="kimi" />
 </div>
 
 ###
