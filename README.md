@@ -1,4 +1,4 @@
-<h2 align="left">sup, im ancespiroez 💀</h2>
+<h2 align="left">sup, im ancespiroez</h2>
 
 ###
 
@@ -18,13 +18,11 @@ Generalist vibe coder.
 </pre>
 
 <div align="left">
-  <img src="./icons/windows.png" height="40" alt="windows" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="40" alt="windows" />
   <img width="12" />
-  <img src="./icons/linux.png" height="40" alt="linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
   <img width="12" />
-  <img src="./icons/ios.png" height="40" alt="ios" />
-  <img width="12" />
-  <img src="./icons/macos.png" height="40" alt="macos" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="macos/ios" />
 </div>
 
 <pre>
@@ -34,17 +32,17 @@ Generalist vibe coder.
 </pre>
 
 <div align="left">
-  <img src="./icons/html.png" height="40" alt="html" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html" />
   <img width="12" />
-  <img src="./icons/js.png" height="40" alt="js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
   <img width="12" />
-  <img src="./icons/css.png" height="40" alt="css" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css" />
   <img width="12" />
-  <img src="./icons/rust.png" height="40" alt="rust" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust" />
   <img width="12" />
-  <img src="./icons/c.png" height="40" alt="c" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />
   <img width="12" />
-  <img src="./icons/python.png" height="40" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
 </div>
 
 <pre>
@@ -54,13 +52,13 @@ Generalist vibe coder.
 </pre>
 
 <div align="left">
-  <img src="./icons/claude.png" height="40" alt="claude" />
+  <img src="https://cdn.simpleicons.org/anthropic/white" height="40" alt="claude" />
   <img width="12" />
-  <img src="./icons/qwen.png" height="40" alt="qwen" />
+  <img src="https://cdn.simpleicons.org/openai/white" height="40" alt="chatgpt" />
   <img width="12" />
-  <img src="./icons/chatgpt.png" height="40" alt="chatgpt" />
+  <img src="https://cdn.simpleicons.org/googlegemini/white" height="40" alt="gemini" />
   <img width="12" />
-  <img src="./icons/kimi.png" height="40" alt="kimi" />
+  <img src="https://cdn.simpleicons.org/githubcopilot/white" height="40" alt="copilot" />
 </div>
 
 ###
