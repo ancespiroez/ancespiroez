@@ -1,12 +1,13 @@
-<h2 align="left">Hi</h2>
+<h2 align="left">sup, im ancespiroez</h2>
 
-**`who`**  
+<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXBwbWRkZzBqdjl0ZzJ1ZzJ0ZzJ0ZzJ0ZzJ0ZzJ0ZzJ0ZzJ0ZzJ0ZzJ0ZzJ0ZzJ0Zw/gjrYDwbJNk8Qw/giphy.gif" />
+
+`who`
 Generalist coder.
 
 <br>
 
-**`os`**
-
+`os`
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="40" alt="windows" />
   <img width="12" />
@@ -17,38 +18,40 @@ Generalist coder.
 
 <br>
 
-**`languages`**
-
-<div align="left"
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html" />
+`languages`
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" alt="html" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" alt="python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-%28%D1%83%D1%87%D1%83%29-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="40" alt="C++ (учу)" />
 </div>
 
 <br>
 
-**`ai i vibe with`**
-
+`ai i use`
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="40" alt="chatgpt" />
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" height="40" alt="grok" />
   <img width="12" />
-  <img src="https://www.ai-stat.ru/icons/png/dark/qwen.png" height="40" alt="qwen" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="40" alt="chatgpt" />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU45ma4iHHngkpIdLVl3E5luncCm2ge95t2G592XD4-g&s" height="40" alt="kimi" />
-  <img src="https://tse1.mm.bing.net/th/id/OIP.yVOs3hTki6rtpfVsHG9AwQHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" height="40" width="12" alt="deepseek"/>
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" height="40" alt="deepseek" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Qwen-615CED?style=for-the-badge" height="40" alt="qwen" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Kimi-111111?style=for-the-badge" height="40" alt="kimi" />
 </div>
 
-###
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ancespiroez&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ancespiroez&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="150" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ancespiroez&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff" height="170" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ancespiroez&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff" height="170" alt="top languages" />
 </div>
 
-###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ancespiroez&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170" alt="streak stats" />
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ancespiroez&style=for-the-badge&color=red" alt="profile views" />
