@@ -24,7 +24,7 @@ Generalist coder.
   <img width="12" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" alt="python" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/C%2B%2B%20(learnin%20rn)-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="40" alt="C++ (learnin rn)" />
+  <img src="https://img.shields.io/badge/C%2B%2B-%28learnin%20rn%29-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="40" alt="C++" />
 </div>
 
 <br>
@@ -43,6 +43,10 @@ Generalist coder.
 </div>
 
 <br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ancespiroez&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170" alt="streak stats" />
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ancespiroez&style=for-the-badge&color=red" alt="profile views" />
